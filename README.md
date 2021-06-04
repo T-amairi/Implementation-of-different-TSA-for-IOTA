@@ -17,4 +17,4 @@ Le dossier data contient les fichiers logs, les statistiques de performances des
 - TangleGen.py permet d'afficher le Tangle avec un code couleur dans le dossier im. Il utilise les fichiers logs du dossier Traking. 
 - RTracking contient les fichiers logs du git de référence.
 
-Pour plus de détails voir le compte rendu (https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA/blob/main/Compte%20Rendu.pdf). 
+Pour plus de détails voir le compte rendu : https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA/blob/main/Compte%20Rendu.pdf. 
